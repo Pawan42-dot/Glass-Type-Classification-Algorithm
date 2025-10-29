@@ -1,0 +1,2 @@
+# Glass-Type-Classification-using-Decision-Tree-Algorithm
+This project focuses on predicting the type of glass based onits chemical composition using machine learning and data analysis techniques. The dataset, known as the Glass Identification Dataset, includes measurements such as refractive index and the concentrations of elements like sodium,magnesium,aluminum,silicon,potassium,calcium,barium,and iron.
